@@ -1,34 +1,30 @@
 <p align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD428D&width=435&lines=Hi+I'm+Akash%2C+Welcome+to+my+profile"/>
-
 </p>
 
 <img src="./assets/borderseparator.gif" width="100%"/>
 
-<!-- <p align="center"> 
+<!-- <p align="center">
 
   <img src="https://komarev.com/ghpvc/?username=akash4-sys&color=ff69b4" />
 
 </p> -->
-
-
+<br>
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
+
 <h2 align="center"> Self-taught and passionate about coding! </h2><br>
 
-* 👨‍💻 I'm Akash(akash4-sys)👋, a college student, I'm currently pursuing a Computer Science Degree in the India. <br><br><br>
+- 👨‍💻 I'm Akash(akash4-sys)👋, a college student, I'm currently pursuing a Computer Science Degree in the India. <br><br><br>
 
-* 🌳 I’m currently learning TypeScript, Docker, Kubernetes and Microservices! <br><br><br>
+- 🌳 I’m currently learning TypeScript, Docker, Kubernetes and Microservices! <br><br><br>
 
-* 🐾 I’m looking to network and make friends here! <br><br><br>
+- 🐾 I’m looking to network and make friends here! <br><br><br>
 
-* 🌊 2023 Goals: Improve Competitive Programming rating and Contribute to Open Source Projects. <br><br><br>
+- 🌊 2023 Goals: Improve Competitive Programming rating and Contribute to Open Source Projects. <br><br><br>
 
-* ☕ Interest: Development, Math, Competitive Programming, Anime and Web Novel. <br><br><br>
-
-
+- ☕ Interest: Development, Math, Competitive Programming, Anime and Web Novel. <br><br><br>
 
 <!-- <div align="center">
   <h2> <strong> Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
@@ -38,8 +34,9 @@
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-</div></br> -->
+</div> -->
 
+</br>
 
 <div align="center">
   <!-- <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /> -->
@@ -51,7 +48,6 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,electron,graphql,java,ai,next,wasm" alt="skills planning to learn logos">
 </div></br>
 
-  
 <div align="center">
   <h2> <strong> My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=akash4-sys&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
@@ -63,13 +59,14 @@
 
 <br>
 <div align="center">
-  <h2> 
+  <h2>
+
+<strong> My Leetcode Stats </strong>
 
 [Codex47](https://leetcode.com/codex47)
-  <strong> My Leetcode Stats </strong> 
 
+  <img src="./assets/borderseparator.gif"/>
   </h2>
-    <img src="./assets/borderseparator.gif"/>
   <br>
   <img src="./assets/leetcode-ratings.png" alt="leetcode ratings" width="100%" />
   <br>
