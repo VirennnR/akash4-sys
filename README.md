@@ -6,13 +6,13 @@
 
 <img src="./assets/borderseparator.gif" width="100%"/>
 
-<p align="center"> 
+<!-- <p align="center"> 
 
   <img src="https://komarev.com/ghpvc/?username=akash4-sys&color=ff69b4" />
 
-</p>
+</p> -->
 
-<h2></h2>
+
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
@@ -28,31 +28,29 @@
 
 * ☕ Interest: Development, Math, Competitive Programming, Anime and Web Novel. <br><br><br>
 
-<h2></h2>
 
-<div align="center">
-  <h2> <strong> Education </strong> <img src="./assets/borderseparator.gif"/> </h2><br>
+
+<!-- <div align="center">
+  <h2> <strong> Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
   <img src="https://img.shields.io/badge/Youtube-B1361E?style=for-the-badge&logo=Youtube&logoColor=white"/>
   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CodeChef-1d3a77?style=for-the-badge&logo=CodeChef&logoColor=white"/>
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
-</div></br>
+</div></br> -->
 
-<h2></h2>
 
 <div align="center">
-  <img src="./assets/pixels-neon.gif" alt="pixel guy using computer" width="100%" />
+  <!-- <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /> -->
   <h2> <strong> Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
   <img src="https://skillicons.dev/icons?i=cpp,git,github,nodejs,webpack,js,mysql,svg,netlify,react,mongodb,express,redux,heroku,pug" alt="skills logos" /> <br>
   <h3> <strong> Actively Learning </strong></h3>
   <img src="https://skillicons.dev/icons?i=ts,jest,redis,kubernetes,docker" alt="skills actively learning logos"> <br> 
   <h3> <strong> Planning to Learn </strong></h3>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,electron,graphql,java,ai,next,sanity" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,electron,graphql,java,ai,next,wasm" alt="skills planning to learn logos">
 </div></br>
 
-<h2></h2>
   
 <div align="center">
   <h2> <strong> My Github Stats </strong> <img src="./assets/borderseparator.gif"/></h2><br>
@@ -62,3 +60,19 @@
 </div> <br>
 
 ![Akash's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=akash4-sys&custom_title=Akash's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true)
+
+<br>
+<div align="center">
+  <h2> 
+
+[Codex47](https://leetcode.com/codex47)
+  <strong> My Leetcode Stats </strong> 
+
+  </h2>
+    <img src="./assets/borderseparator.gif"/>
+  <br>
+  <img src="./assets/leetcode-ratings.png" alt="leetcode ratings" width="100%" />
+  <br>
+  <br>
+  <img src="./assets/leetcode-submission.png" alt="leetcode submission graph" width="100%" />
+</div>
